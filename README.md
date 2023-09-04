@@ -73,8 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or feedback, please feel free to contact us:
 
-- Email: your-email@example.com
-- Website: [Your Website URL]
-- GitHub: [Your GitHub Profile URL]
+- Email: harshraj0235@gmail.com
+- GitHub: https://github.com/harshraj0235
 
 Thank you for using our Job Portal Website! We hope it helps you in your job search or job posting endeavors.
